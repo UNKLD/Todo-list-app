@@ -4,10 +4,15 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "16.13.2",
+    "npm": "8.3.0"
+  },
   "dependencies": {
     "dotenv": "^16.0.0",
     "ejs": "^2.6.1",
