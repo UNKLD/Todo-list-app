@@ -3,15 +3,24 @@ A simple todo list app with Node.js
 
 ## live demo [Todo List App](https://ld-todo-list-app.herokuapp.com/)
 
- Getting started
+# Getting started
+ 
+Install all dependencies
 
-`npm i`
+```
+npm i
+```
 
-To install all dependencies
+Setup an environment variable
+```
+DB_URL=<mongodb_url>
+```
 
-`node app.js`
+Running the app
 
-To run the app
+```
+node app.js
+```
 
  Add custom lists by adding your list name after the /<list name> on the url like so
 
