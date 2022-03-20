@@ -1,7 +1,6 @@
 ## Todo-list-app
 A simple todo list app with Node.js
 
-## live demo [Todo List App](https://ld-todo-list-app.herokuapp.com/)
 
 
 
