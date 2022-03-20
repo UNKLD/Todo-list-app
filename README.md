@@ -3,6 +3,13 @@ A simple todo list app with Node.js
 
 ## live demo [Todo List App](https://ld-todo-list-app.herokuapp.com/)
 
+
+
+![Todo List Home](https://user-images.githubusercontent.com/70531709/159153279-4d9ff47c-a98c-4732-8226-28083a3a380d.png)
+
+
+
+
 # Getting started
  
 Install all dependencies
